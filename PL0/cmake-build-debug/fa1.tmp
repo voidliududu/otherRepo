@@ -1,0 +1,26 @@
+Input pl/0 file?y
+0var a, b, c;
+
+1
+
+1procedure mult;
+
+1var i, j;
+
+2begin
+
+3    i := a;
+
+5    j := b;
+
+7end;
+
+8begin
+
+9    a := 1;
+
+11    b := 2;
+
+13    call mult;
+
+14end.

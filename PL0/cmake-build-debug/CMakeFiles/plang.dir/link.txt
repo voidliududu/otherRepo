@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/plang.dir/LL1.c.o  -o plang 

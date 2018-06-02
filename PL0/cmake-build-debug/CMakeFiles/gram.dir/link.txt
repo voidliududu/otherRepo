@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gram.dir/grammer.cpp.o  -o gram 

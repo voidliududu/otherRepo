@@ -1,0 +1,13 @@
+var a, b, c;
+
+procedure mult;
+var i, j;
+begin
+    i := a;
+    j := b;
+end;
+begin
+    a := 1;
+    b := 2;
+    call mult;
+end.

@@ -1,0 +1,5 @@
+/home/liududu/CLionProjects/PL0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liududu/CLionProjects/PL0/cmake-build-debug/CMakeFiles/plang.dir
+/home/liududu/CLionProjects/PL0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liududu/CLionProjects/PL0/cmake-build-debug/CMakeFiles/clex.dir
+/home/liududu/CLionProjects/PL0/cmake-build-debug/CMakeFiles/PL0.dir
